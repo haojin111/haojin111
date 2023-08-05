@@ -8,12 +8,12 @@ I focus on building products and my diverse skill set allows me to tackle any ch
 
 ## 🔭 I’m currently working on ...
 ### Javascript
-✅   Typescript , ES6, VanilarJS<br/>
-✅   React.js with Redux and RxJS<br/>
-✅   AngularJS and Angular8+<br/>
-✅   Solid.js<br/>
-✅   Vue.js<br/>
-✅   Node.js  with Express and Happi framework.<br/>
+✅  Typescript , ES6, VanilarJS<br/>
+✅  React.js with Redux and RxJS<br/>
+✅  AngularJS and Angular8+<br/>
+✅  Solid.js<br/>
+✅  Vue.js<br/>
+✅  Node.js  with Express and Happi framework.<br/>
 
 ### Python
 ✅  Django<br/>
@@ -25,8 +25,8 @@ I focus on building products and my diverse skill set allows me to tackle any ch
 ✅  Jin frameworks<br/>
 
 ### Unit Testing
-✅  Jest<br/>
-✅  Cypress<br/>
+✅ Jest<br/>
+✅ Cypress<br/>
 
 ### UI Technology
 ✅  SCSS, LESS, Styled-JSX, Styled-CSS, Styled-components<br/>
@@ -39,10 +39,10 @@ I focus on building products and my diverse skill set allows me to tackle any ch
 ✅  Sentry<br/>
 
 ### Database
-✅  MySQL<br/>
-✅  PostgreSQL<br/>
-✅  Firebase<br/>
-✅  NoSQL with MongoDB and CouchDB<br/>
+✅ MySQL<br/>
+✅ PostgreSQL<br/>
+✅ Firebase<br/>
+✅ NoSQL with MongoDB and CouchDB<br/>
 
 ## 👯 I’m looking to collaborate on
   Backend Developing with Node.js, Next.js, Golang, and FastAPI<br/>
@@ -58,7 +58,9 @@ I focus on building products and my diverse skill set allows me to tackle any ch
 Thank you.
 
 ## Github Stats
-[![Ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=haojin111&show_icons=true&theme=merko&hide=stars,contribs)](https://github.com/haojin111/github-readme-stats)
+<img src="https://github.com/haojin111/haojin111/blob/main/socials/chrome-capture-2023-7-5.gif" width="700">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haojin111&theme=merko)](https://git.io/streak-stats)
-[![GitHub Skyline](https://github.com/haojin111/haojin111/blob/main/socials/chrome-capture-2023-7-5.gif)](https://skyline.github.com/haojin111/2022)
+<img src="https://github-readme-stats.vercel.app/api?username=haojin111&show_icons=true&theme=merko&hide=stars,contribs&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=haojin111&theme=jolly" width="700">
+
