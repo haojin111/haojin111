@@ -60,7 +60,7 @@ Thank you.
 ## Github Stats
 <img src="https://github.com/haojin111/haojin111/blob/main/socials/chrome-capture-2023-7-5.gif" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haojin111&show_icons=true&theme=merko&hide=stars,contribs&include_all_commits=true&count_private=true&theme=merko&layout=compact" alt="GitHub Stats for MishManners" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=haojin111&show_icons=true&theme=highcontrast&hide=stars,contribs&include_all_commits=true&count_private=true" alt="GitHub Stats for MishManners" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=haojin111&theme=jolly" width="700">
 
